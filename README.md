@@ -14,3 +14,8 @@ This is the Annual Survey of Hours and Earnings (ASHE) is based on a 1 per cent 
 
 Libraries: Pandas and Plotly
 Python version: Python 2.7.16
+
+
+## Graph example
+
+![Screeshot](./data/examples.png)
