@@ -1,0 +1,42 @@
+median versus average
+population size per county
+offer
+volume of sales
+
+++ Inner London
+
+Camden
+Greenwich
+Hackney
+Hammersmith & Fulham
+Islington
+Kensington & Chelsea
+Lambeth
+Lewisham
+Southwark
+Tower Hamlets
+Wandsworth
+Westminster
+
+++ Outer London
+
+Barking and Dagenham
+Barnet
+Bexley
+Brent
+Bromley
+Croydon
+Ealing
+Enfield
+Haringey
+Harrow
+Havering
+Hillingdon
+Hounslow
+Royal Borough of Kingston upon Thames
+Merton
+Newham
+Redbridge
+Richmond upon Thames
+Sutton
+Waltham Forest
